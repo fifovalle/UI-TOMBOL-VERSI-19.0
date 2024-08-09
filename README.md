@@ -35,7 +35,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```
-   git clone https://github.com/fifovalle/UI-Tombol-Versi-19.0.git
+   git clone https://github.com/fifovalle/UI-TOMBOL-VERSI-19.0.git
 
    ```
 
