@@ -20,7 +20,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 Berikut adalah beberapa tampilan halaman website :
 
-![Screenshot 2024-08-09 085428](https://github.com/user-attachments/assets/1bb71d09-647e-4047-894f-4a435fefc77f)
+![Screenshot 2024-08-09 090937](https://github.com/user-attachments/assets/56fba2e6-dac0-4d3b-8b27-0ab35f1015f6)
 
 ## 📬 Kontak
 
@@ -35,7 +35,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```
-   git clone https://github.com/fifovalle/UI-TOMBOL-VERSI-18.0.git
+   git clone https://github.com/fifovalle/UI-Tombol-Versi-19.0.git
 
    ```
 
